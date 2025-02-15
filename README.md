@@ -14,3 +14,7 @@ This repository contains solutions for the Classic Models database Assignments. 
 * Subqueries: Advanced data retrieval using subqueries.
 * Error Handling: Implementing exception handling in SQL procedures.
 * Triggers: Creating BEFORE INSERT triggers for data validation.
+
+## Database Schema
+Classic-Models
+![Classicmodels](https://github.com/user-attachments/assets/12f0a9ca-8d4e-4f27-9ed3-c1e14fd411a6)
