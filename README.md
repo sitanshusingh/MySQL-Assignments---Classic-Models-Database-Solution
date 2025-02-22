@@ -2,13 +2,13 @@
 
 ## Table Contents
 - [Introduction](#Introduction)
-- [Dataset Overview](#Dataset Overview)
-- [Assignments Objective](#AssignmentsOverview)
+- [Dataset Overview](#Dataset-Overview)
+- [Assignments Objective](#Assignments-Overview)
 - [Data Cleaning](#DataCleaning)
-- [Data Exploration and Insights](#DataExplorationandInsights)
+- [Data Exploration and Insights](#Data-Exploration-and-Insights)
 - [Recommendation](#Recommendation)
 - [Conclusion](#Conclusion)
-- [Database Schema](#DatabaseSchema)
+- [Database Schema](#Database-Schema)
 - [Questions](#Questions)
 - [Solution](#Solution)
 
