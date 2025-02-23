@@ -10,7 +10,7 @@
 - [Conclusion](#Conclusion)
 - [Database Schema](#Database-Schema)
 - [Questions](#Questions)
-- [Solution](#Solution)
+- [Solutions](#Solutions)
 
 
 ## Introduction
